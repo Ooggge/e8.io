@@ -461,7 +461,15 @@ body{
 .header_link:hover, .header_link:focus, .header_link:active{
   opacity: .75;
 } 
-
+.header_link1{
+  font-size: 12px;
+  line-height: 15px;
+  color: white;
+  text-decoration: none;
+}
+.header_link1:hover, .header_link1:focus, .header_link1:active{
+  opacity: .75;
+}
 .intro{
   height: 100vh;
   background: url(../img/intro-bg.svg) no-repeat center;
@@ -598,6 +606,8 @@ opacity: .75;
   height: 25px;
   left: 228px;
   top: 641px;
+  display: flex; 
+  flex-wrap : wrap;
 }
 .M
 {
@@ -605,7 +615,9 @@ opacity: .75;
   width: 25px;
   height: 25px;
   left: 123px;
-  top: 641px;
+  top: 643px;
+  display: flex; 
+  flex-wrap : wrap;
 }
 .telegram
 {
@@ -614,6 +626,8 @@ opacity: .75;
   height: 25px;
   left: 175px;
   top: 641px;
+  display: flex; 
+  flex-wrap : wrap;
 }
 .download-launcher
 {
@@ -707,6 +721,14 @@ opacity: .75;
   line-height: 17px;
   display: flex; 
   flex-wrap : wrap;
+
+}
+.contacts-color
+{
+  font-size: 14px;
+  line-height: 17px;
+  color: #E8327C;
+  text-decoration: none;
 }
 .bridge
 {
@@ -739,6 +761,13 @@ opacity: .75;
   line-height: 17px;
   display: flex; 
   flex-wrap : wrap;
+}
+.games-color
+{
+  font-size: 14px;
+  line-height: 17px;
+  color: #E8327C;
+  text-decoration: none;
 }
 .whitepaper
 {
@@ -934,7 +963,6 @@ opacity: .75;
   height: 101px;
   left: 1117px;
   top: 346px;
-  
   font-family: Montserrat;
   font-style: normal;
   font-weight: normal;
@@ -947,9 +975,8 @@ opacity: .75;
   width: 53px;
   height: 0px;
   left: 1145px;
-  top: 66px;
-  
-  border: 0.5px solid #E8327C; 
+  top: 55px;
+
 }
 .download1
 {
@@ -1000,6 +1027,509 @@ opacity: .75;
   font-weight: bold;
   font-size: 14px;
   line-height: 17px;
+  display: flex; 
+  flex-wrap : wrap;
+}
+.fon-download2
+{
+  position: absolute;
+  width: 1440px;
+  height: 723px;
+  left: 0px;
+  top: 0px;
+}
+.fon-download2-1
+{
+  position: absolute;
+  width: 1440px;
+  height: 723px;
+  left: 0px;
+  top: 0px;
+}
+.rectangle1-2
+{
+  position: absolute;
+  width: 582px;
+  height: 313px;
+  left: 772px;
+  top: 263px;
+  
+  border: 1px solid #FFFFFF;
+  box-sizing: border-box;
+  border-radius: 8px;
+}
+.fon-contacts
+{
+  position: absolute;
+  width: 1440px;
+  height: 723px;
+  left: 0px;
+  top: 0px;
+}
+.fon-contacts1
+{
+  position: absolute;
+  width: 1440px;
+  height: 723px;
+  left: 0px;
+  top: 0px;
+}
+.vector43
+{
+  position: absolute;
+  width: 77px;
+  height: 0px;
+  left: 1220px;
+  top: 55px;
+}
+.gta5-contacts
+{
+  position: absolute;
+  width: 720px;
+  height: 540px;
+  left: 0px;
+  top: 180px;
+}
+.contacts1
+{
+position: absolute;
+width: 205px;
+height: 44px;
+left: 95px;
+top: 179px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 44px;
+}
+.ellipse5-1
+{
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  left: 1385px;
+  top: 417px;
+}
+.ellipse5-4
+{
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  left: 1385px;
+  top: 384px;
+}
+.rectangle32
+{
+  position: absolute;
+  width: 467px;
+  height: 172px;
+  left: 830px;
+  top: 180px;
+
+  background: linear-gradient(180deg, #E8327C 0%, #C23C8E 100%);
+  border-radius: 8px;
+}
+.rectangle33
+{
+  position: absolute;
+  width: 467px;
+  height: 268px;
+  left: 830px;
+  top: 380px;
+  
+  background: linear-gradient(180deg, #E8327C 0%, #C23C8E 100%);
+  border-radius: 8px;
+}
+.main-resources
+{
+  position: absolute;
+  width: 192px;
+  height: 24px;
+  left: 968px;
+  top: 202px;
+  
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 24px;
+}
+.vector30
+{
+  position: absolute;
+  width: 113.5px;
+  height: 0px;
+  left: 1183px;
+  top: 214px;
+}
+.vector31
+{
+  position: absolute;
+  width: 113.5px;
+  height: 0px;
+  left: 830px;
+  top: 214px;  
+}
+.github-vector
+{
+  position: absolute;
+  width: 22px;
+  height: 20px;
+  left: 867px;
+  top: 252px; 
+}
+.twitter-vector
+{
+  position: absolute;
+  width: 22px;
+  height: 22px;
+  left: 867px;
+  top: 300px;
+}
+.github
+{
+  position: absolute;
+  width: 49px;
+  height: 15px;
+  left: 905px;
+  top: 258px;
+  
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 14.63px;
+  color: #FFFFFF;
+  display: flex; 
+  flex-wrap : wrap;
+}
+.twitter-t
+{
+  position: absolute;
+  width: 57px;
+  height: 15px;
+  left: 905px;
+  top: 305px;
+  
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 15px;
+  display: flex; 
+  flex-wrap : wrap;
+}
+.instagram-v
+{
+  position: absolute;
+  width: 22px;
+  height: 22px;
+  left: 995px;
+  top: 252px;
+}
+.medium-v
+{
+  position: absolute;
+  left: 995px;
+  width: 22px;
+  height: 18px;
+  top: 300px;
+}
+.instagram
+{
+  position: absolute;
+  width: 76px;
+  height: 15px;
+  left: 1030px;
+  top: 258px;
+  
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 15px;
+  display: flex; 
+  flex-wrap : wrap;
+}
+.medium
+{
+  position: absolute;
+  width: 55px;
+  height: 15px;
+  left: 1030px;
+  top: 305px;
+  
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 15px;
+  display: flex; 
+  flex-wrap : wrap;
+}
+.discord-v
+{
+  position: absolute;
+  left: 1149px;
+  top: 253px;
+  width: 22px;
+  height: 24px;
+}
+.telegram-v
+{
+  position: absolute;
+  width: 22px;
+  height: 22px;
+  left: 1149px;
+  top: 300px;
+  
+}
+.telegram-t
+{
+  position: absolute;
+  width: 70px;
+  height: 15px;
+  left: 1190px;
+  top: 305px;
+  
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 15px;
+  display: flex; 
+  flex-wrap : wrap;
+}
+.discord
+{
+  position: absolute;
+  width: 59px;
+  height: 15px;
+  left: 1190px;
+  top: 258px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 15px;
+  display: flex; 
+  flex-wrap : wrap;
+}
+.adittional
+{
+  position: absolute;
+  width: 131px;
+  height: 24px;
+  left: 997px;
+  top: 402px;
+  
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 24px;
+}
+.vector32
+{
+  position: absolute;
+  width: 113.5px;
+  height: 0px;
+  left: 1183px;
+  top: 414px;  
+}
+.vector33
+{
+  position: absolute;
+  width: 113.5px;
+  height: 0px;
+  left: 830px;
+  top: 414px;
+}
+.quickswap
+{
+  position: absolute;
+  width: 22px;
+  height: 22px;
+  left: 870px;
+  top: 451px;
+}
+.quickswap1
+{
+  position: absolute;
+  width: 81px;
+  height: 15px;
+  left: 913px;
+  top: 455px;
+  
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 15px;
+  display: flex; 
+  flex-wrap : wrap;
+}
+.polygonscan
+{
+  position: absolute;
+  width: 22px;
+  height: 19px;
+  left: 872px;
+  top: 501px;
+}
+.polygonscan1
+{
+  position: absolute;
+  width: 98px;
+  height: 15px;
+  left: 913px;
+  top: 505px;
+  
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 15px;
+  display: flex; 
+  flex-wrap : wrap;
+}
+.coingecko
+{
+  position: absolute;
+  width: 22px;
+  height: 21.82px;
+  left: 871px;
+  top: 551px;
+}
+.coingecko1
+{
+  position: absolute;
+  width: 78px;
+  height: 15px;
+  left: 914px;
+  top: 555px;
+  
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 15px;
+  display: flex; 
+  flex-wrap : wrap;
+}
+.dapradar
+{
+  position: absolute;
+  left: 870px;
+  top: 601px;
+}
+.dapradar1
+{
+  position: absolute;
+  width: 83px;
+  height: 15px;
+  left: 913px;
+  top: 605px;
+  
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 15px;
+  display: flex; 
+  flex-wrap : wrap;
+}
+.p2p
+{
+  position: absolute;
+  left: 1083px;
+  top: 451px;
+}
+.p2p1
+{
+  position: absolute;
+  width: 50px;
+  height: 15px;
+  left: 1124px;
+  top: 455px;
+  
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 15px;
+  display: flex; 
+  flex-wrap : wrap;
+}
+.awesome
+{
+  position: absolute;
+  width: 22px;
+  height: 19px;
+  left: 1082px;
+  top: 501px;
+}
+.awesome1
+{
+  position: absolute;
+  width: 134px;
+  height: 15px;
+  left: 1124px;
+  top: 505px;
+  
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 15px;
+  display: flex; 
+  flex-wrap : wrap;
+}
+.coinmarketcap
+{
+  position: absolute;
+  width: 22px;
+  height: 22px;
+  left: 1082px;
+  top: 551px;
+}
+.coinmarketcap1
+{
+  position: absolute;
+  width: 113px;
+  height: 15px;
+  left: 1124px;
+  top: 555px;
+  
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 15px;
+  display: flex; 
+  flex-wrap : wrap;
+}
+.chart
+{
+  position: absolute;
+  left: 1083px;
+  top: 601px;
+}
+.chart1
+{
+  position: absolute;
+  width: 44px;
+  height: 15px;
+  left: 1124px;
+  top: 605px;
+  
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 15px;
   display: flex; 
   flex-wrap : wrap;
 }
