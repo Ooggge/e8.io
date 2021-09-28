@@ -470,6 +470,15 @@ body{
 .header_link1:hover, .header_link1:focus, .header_link1:active{
   opacity: .75;
 }
+.header_link2{
+  font-size: 16px;
+  line-height: 20px;
+  color: white;
+  text-decoration: none;
+}
+.header_link2:hover, .header_link2:focus, .header_link2:active{
+  opacity: .75;
+} 
 .intro{
   height: 100vh;
   background: url(../img/intro-bg.svg) no-repeat center;
@@ -1532,4 +1541,3015 @@ line-height: 44px;
   line-height: 15px;
   display: flex; 
   flex-wrap : wrap;
+}
+.fon-farming
+{
+  position: absolute;
+  width: 1440px;
+  height: 723px;
+  left: 0px;
+  top: 0px; 
+}
+.farming-mine-g
+{
+  position: absolute;
+  width: 646px;
+  height: 678px;
+  left: 98px;
+  top: 150px;
+}
+.vector42-farming
+{
+  position: absolute;
+  width: 77px;
+  height: 0px;
+  left: 835px;
+  top: 55px;
+}
+.vector4-farming
+{
+  position: absolute;
+  width: 2.5px;
+  height: 5px;
+  left: 102px;
+  top: 155px;
+}
+.farming-g
+{
+  position: absolute;
+  width: 180px;
+  height: 44px;
+  left: 98px;
+  top: 179px;
+  
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 44px;
+}
+.home-farming
+{
+  position: absolute;
+  width: 46px;
+  height: 17px;
+  left: 110.5px;
+  top: 158px;
+  
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 17px;
+  display: flex; 
+  flex-wrap : wrap;
+}
+.metamask-farming
+{
+  position: absolute;
+  width: 44.6px;
+  height: 44.6px;
+  left: 880px;
+  top: 306px;
+  
+}
+.metamask-farming1
+{
+  position: absolute;
+  width: 98px;
+  height: 20px;
+  left: 944px;
+  top: 320px;
+  
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  display: flex; 
+  flex-wrap : wrap;
+}
+.trust-farming
+{
+  position: absolute;
+  left: 885px;
+  top: 391px;
+  Width: 36px;
+  Height: 36px;
+}
+.trust-farming1
+{
+  position: absolute;
+  width: 55px;
+  height: 20px;
+  left: 942px;
+  top: 400px;
+  
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  display: flex; 
+  flex-wrap : wrap;
+}
+.walletconnect-farming
+{
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  left: 885px;
+  top: 476px;
+}
+.walletconnect-farming1
+{
+  position: absolute;
+  width: 190px;
+  height: 20px;
+  left: 943px;
+  top: 485px;
+  
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  display: flex; 
+  flex-wrap : wrap;
+}
+.choose-farming
+{
+  position: absolute;
+  width: 417px;
+  height: 44px;
+  left: 868px;
+  top: 179px;
+  
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 44px;
+}
+.choose-wallet-farming
+{
+  position: absolute;
+  width: 377px;
+  height: 29px;
+  left: 888px;
+  top: 247px;
+  
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+}
+.rectangle12
+{
+  position: absolute;
+  width: 432px;
+  height: 61px;
+  left: 861px;
+  top: 299px;
+  
+  border-radius: 8px;
+}
+.rectangle11
+{
+  position: absolute;
+  width: 118px;
+  height: 47px;
+  left: 1310px;
+  top: 32px;
+}
+.login-farming
+{
+  position: absolute;
+  width: 47px;
+  height: 17px;
+  left: 1345px;
+  top: 48px;
+  
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 17px;
+  display: flex; 
+  flex-wrap : wrap;
+}
+.rectangle5-farming
+{
+  position: absolute;
+  width: 190px;
+  height: 62px;
+  left: 990px;
+  top: 576px;
+  display: flex; 
+  flex-wrap : wrap;
+}
+.unlock-farming
+{
+  position: absolute;
+  width: 140px;
+  height: 17px;
+  left: 1016px;
+  top: 599px;
+  
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  display: flex; 
+  flex-wrap : wrap;
+}
+.current-block
+{
+  position: absolute;
+  width: 178px;
+  height: 15px;
+  left: 313px;
+  top: 202px;
+  
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 15px;
+}
+.rectangle5-farm
+{
+  position: absolute;
+  width: 203px;
+  height: 52px;
+  left: 1137px;
+  top: 162px;
+  
+  background: linear-gradient(180deg, #E8327C 0%, #C23C8E 100%);
+  border-radius: 8px;
+  display: flex; 
+  flex-wrap : wrap;
+}
+.fon-download-1
+{
+  position: absolute;
+  width: 1440px;
+  height: 723px;
+  left: 0px;
+  top: 0px;
+}
+.fon-download
+{
+  position: absolute;
+  width: 1440px;
+  height: 723px;
+  left: 0px;
+  top: 0px;
+}
+.minecraft
+{
+ position: absolute;
+ width: 124px;
+ height: 136px;
+ left: 842px;
+ top: 365px;
+}
+.gta5
+{
+ position: absolute;
+ width: 224px;
+ height: 204px;
+ left: 110px;
+ top: 310px;
+}
+.minecraft1
+{
+  position: absolute;
+  width: 221px;
+  height: 59px;
+  left: 794px;
+  top: 311px;
+
+}
+.polygon
+{
+  position: absolute;
+  width: 106px;
+  height: 24px;
+  left: 376px;
+  top: 642px;
+}
+.Twitter
+{
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  left: 228px;
+  top: 641px;
+}
+.M
+{
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  left: 123px;
+  top: 641px;
+}
+.telegram
+{
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  left: 175px;
+  top: 641px;
+}
+.download-launcher
+{
+  position: absolute;
+  width: 491px;
+  height: 44px;
+  left: 95px;
+  top: 179px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 44px;
+}
+.rectangle1
+{
+  position: absolute;
+  width: 582px;
+  height: 313px;
+  left: 84px;
+  top: 263px;
+
+  border: 1px solid #FFFFFF;
+  box-sizing: border-box;
+  border-radius: 8px;
+}
+
+.gta5-launcher
+{
+  position: absolute;
+  width: 184px;
+  height: 24px;
+  left: 393px;
+  top: 296px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 24px;
+
+  color: #FFFFFF;
+}
+.powered
+{
+  position: absolute;
+  width: 74px;
+  height: 12px;
+  left: 291px;
+  top: 648px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 10px;
+  line-height: 12px;
+
+  color: #FFFFFF;
+  display: flex; 
+  flex-wrap : wrap;
+}
+.marketplace
+{
+  position: absolute;
+  width: 109px;
+  height: 17px;
+  left: 303px;
+  top: 47px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 17px;
+  display: flex; 
+  flex-wrap : wrap;
+}
+.contacts
+{
+  position: absolute;
+  width: 77px;
+  height: 17px;
+  left: 1220px;
+  top: 47px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 17px;
+  display: flex; 
+  flex-wrap : wrap;
+}
+.bridge
+{
+  position: absolute;
+  width: 57px;
+  height: 17px;
+  left: 223px;
+  top: 47px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 17px;
+  display: flex; 
+  flex-wrap : wrap;
+}
+.games
+{
+  position: absolute;
+  width: 53px;
+  height: 17px;
+  left: 1145px;
+  top: 47px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 17px;
+  display: flex; 
+  flex-wrap : wrap;
+}
+.whitepaper
+{
+  position: absolute;
+  width: 98px;
+  height: 17px;
+  left: 1026px;
+  top: 47px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 17px;
+  display: flex; 
+  flex-wrap : wrap;
+}
+.login
+{
+position: absolute;
+width: 51px;
+height: 12px;
+left: 1340px;
+top: 45px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 10px;
+line-height: 12px;
+display: flex; 
+flex-wrap : wrap;
+}
+.login1
+{
+  position: absolute;
+  width: 9.42px;
+  height: 11.29px;
+  left: 1323px;
+  top: 50px;
+}
+.withdraw
+{
+position: absolute;
+width: 58px;
+height: 12px;
+left: 1340px;
+top: 57px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 10px;
+line-height: 12px;
+color: rgba(255, 255, 255, 0.3);
+}
+.minecraft-launcher
+{
+  position: absolute;
+  width: 249px;
+  height: 24px;
+  left: 1065px;
+  top: 296px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 24px; 
+  color: #FFFFFF;
+}
+
+.ellipse4
+{
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  left: 1385px;
+  top: 384px;
+
+}
+.ellipse1
+{
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  left: 1385px;
+  top: 283px;
+
+}
+.ellipse2
+{
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  left: 1385px;
+  top: 318px;
+}
+.ellipse3
+{
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  left: 1385px;
+  top: 351px;
+}
+.ellipse5
+{
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  left: 1385px;
+  top: 417px;
+}
+.roadmap
+{
+  position: absolute;
+  width: 77px;
+  height: 17px;
+  left: 927px;
+  top: 47px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 17px;
+  display: flex; 
+  flex-wrap : wrap;
+}
+.farming
+{
+  position: absolute;
+  width: 69px;
+  height: 17px;
+  left: 836px;
+  top: 47px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 17px;
+  display: flex; 
+  flex-wrap : wrap;
+}
+.staking
+{
+  position: absolute;
+  width: 63px;
+  height: 14px;
+  left: 751px;
+  top: 47px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 17px;
+  display: flex; 
+  flex-wrap : wrap;
+}
+.e8-logo
+{
+  position: absolute;
+  width: 147px;
+  height: 82px;
+  left: 69px;
+  top: 9px;
+  display: flex; 
+  flex-wrap : wrap;
+
+}
+.description
+{
+  position: absolute;
+  width: 145px;
+  height: 101px;
+  left: 419px;
+  top: 346px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 24px;
+  color: #FFFFFF;
+}
+
+.description2
+{
+  position: absolute;
+  width: 145px;
+  height: 101px;
+  left: 1117px;
+  top: 346px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 24px;
+}
+.vector42
+{
+  position: absolute;
+  width: 53px;
+  height: 0p3x;
+  left: 1145px;
+  top: 66px;
+
+   
+}
+.download1
+{
+  position: absolute;
+  width: 190px;
+  height: 62px;
+  left: 390px;
+  top: 483px;
+  display: flex; 
+  flex-wrap : wrap;
+}
+.dd 
+{
+  position: absolute;
+  width: 93px;
+  height: 17px;
+  left: 438px;
+  top: 506px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  display: flex; 
+  flex-wrap : wrap;
+}
+.download2
+{
+  position: absolute;
+  width: 190px;
+  height: 62px;
+  left: 1095px;
+  top: 483px;
+  display: flex; 
+  flex-wrap : wrap;
+}
+.dd2 
+{
+  position: absolute;
+  width: 93px;
+  height: 17px;
+  left: 1143px;
+  top: 506px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  display: flex; 
+  flex-wrap : wrap;
+}
+.fon-login1
+{
+  position: absolute;
+width: 1440px;
+height: 723px;
+left: 0px;
+top: 0px;
+}
+.fon-login2
+{
+  position: absolute;
+width: 1440px;
+height: 723px;
+left: 0px;
+top: 0px;
+}
+.login2
+{
+  position: absolute;
+width: 47px;
+height: 17px;
+left: 1345px;
+top: 47px;
+display: flex;
+flex-wrap: wrap;
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 17px;
+}
+.obvodka
+{
+  position: absolute;
+width: 118px;
+height: 47px;
+left: 1310px;
+top: 32px;
+}
+.gta-mikul
+{
+  position: absolute;
+width: 502px;
+height: 645px;
+left: 772px;
+top: 132px;
+}
+.minecraft-left
+{
+  position: absolute;
+width: 646px;
+height: 566px;
+left: 669px;
+top: 314px;
+}
+.minecraft-pravo
+{
+  position: absolute;
+width: 591.67px;
+height: 518.88px;
+left: 840px;
+top: 279.77px;
+}
+.box-buy
+{
+  position: absolute;
+width: 190px;
+height: 62px;
+left: 98px;
+top: 517px;
+}
+.buy-energy8
+{
+  position: absolute;
+width: 105px;
+height: 17px;
+left: 141px;
+top: 540px;
+display: flex;
+flex-wrap: wrap;
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+}
+.text-play-energy
+{
+  position: absolute;
+width: 419px;
+height: 102px;
+left: 98px;
+top: 267px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 42px;
+line-height: 51px;
+}
+.text-energy-product
+{
+  position: absolute;
+width: 493px;
+height: 45px;
+left: 98px;
+top: 410px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+}
+.fon-vibor-color
+{
+  position: absolute;
+width: 1440px;
+height: 723px;
+left: 0px;
+top: 0px;
+background: rgba(6, 3, 31, 0.9);
+backdrop-filter: blur(4px);
+}
+.obvodka-color
+{
+  position: absolute;
+width: 314px;
+height: 119.5px;
+left: 100px;
+top: 91px;
+
+background: rgba(3, 6, 36, 0.5);
+}
+.e8-logo-mini2
+{
+  position: absolute;
+width: 93px;
+height: 52px;
+left: 131px;
+top: 145.5px;
+display: flex;
+flex-wrap: wrap;
+}
+.e8-logo-mini1
+{
+   position: absolute;
+width: 93px;
+height: 52px;
+left: 290px;
+top: 145.5px;
+display: flex;
+flex-wrap: wrap;
+}
+.line
+{
+  position: absolute;
+width: 0px;
+height: 33px;
+left: 257px;
+top: 155.5px;
+border: 1px solid #FFFFFF;
+}
+.text-color 
+{
+position: absolute;
+width: 216px;
+height: 15px;
+left: 149px;
+top: 118.5px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 12px;
+line-height: 15px;
+}
+.krestik
+{
+  position: absolute;
+width: 8px;
+height: 8px;
+left: 197px;
+top: 57px;
+display: flex;
+flex-wrap: wrap;
+}
+.lychnik
+{
+  position: absolute;
+width: 673px;
+height: 686px;
+left: 170px;
+top: 34px;
+}
+.text-connect1
+{
+  position: absolute;
+width: 417px;
+height: 44px;
+left: 868px;
+top: 179px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 44px;
+}
+.text-connect2
+{
+  position: absolute;
+width: 377px;
+height: 29px;
+left: 889px;
+top: 246px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+}
+.obvodka-wallet
+{
+  position: absolute;
+width: 432px;
+height: 61px;
+left: 861px;
+top: 299px;
+
+border-radius: 8px;
+}
+.meta-mask
+{
+position: absolute;
+width: 44.6px;
+height: 44.6px;
+left: 880px;
+top: 306px;
+}
+.trust-wallet
+{
+position: absolute;
+left: 885px;
+top: 391px;
+}
+.wallet-connect
+{
+  position: absolute;
+width: 36px;
+height: 36px;
+left: 885px;
+top: 476px;
+}
+.text-meta
+{
+position: absolute;
+width: 98px;
+height: 20px;
+left: 944px;
+top: 320px;
+display: flex;
+flex-wrap: wrap;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+}
+.text-trust
+{
+position: absolute;
+width: 55px;
+height: 20px;
+left: 942px;
+top: 405px;
+display: flex;
+flex-wrap: wrap;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+}
+.text-wallet
+{
+ position: absolute;
+width: 190px;
+height: 20px;
+left: 943px;
+top: 485px;
+display: flex;
+flex-wrap: wrap;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px; 
+}
+.ykazatel
+{
+  position: absolute;
+width: 2.5px;
+height: 5px;
+left: 102px;
+top: 155px;
+display: flex;
+flex-wrap: wrap;
+}
+.back
+{
+  position: absolute;
+width: 41px;
+height: 17px;
+left: 110.5px;
+top: 158px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+display: flex;
+flex-wrap: wrap;
+}
+.text-login
+{
+  position: absolute;
+width: 121px;
+height: 44px;
+left: 98px;
+top: 179px;
+font-size: 36px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+line-height: 44px;
+display: flex;
+flex-wrap: wrap;
+}
+.box-unlock
+{
+  position: absolute;
+width: 190px;
+height: 62px;
+left: 982px;
+top: 584px;
+}
+.text-unlock
+{
+  position: absolute;
+width: 129px;
+height: 17px;
+left: 1016px;
+top: 607px;
+display: flex;
+flex-wrap: wrap;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+}
+.fon-white-paper
+{
+  position: absolute;
+width: 1440px;
+height: 720px;
+left: 0px;
+top: -20px;
+}
+.wolf-and-girl
+{
+  position: absolute;
+width: 1218px;
+height: 727px;
+left: 1px;
+top: 135px;
+}
+.text-white-paper1
+{
+  position: absolute;
+width: 214px;
+height: 24px;
+left: 1013px;
+top: 473px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 24px;
+}
+.block-white-paper
+{
+  position: absolute;
+width: 169px;
+height: 238px;
+left: 1035px;
+top: 211px;
+}
+.text-download-white-paper
+{
+  position: absolute;
+width: 229px;
+height: 41px;
+left: 1005px;
+top: 512px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 15px;
+text-align: center;
+}
+.box-download-white-paper
+{
+position: absolute;
+width: 190px;
+height: 62px;
+left: 1025px;
+top: 582px;
+}
+.text-download-in-box
+{
+  position: absolute;
+width: 93px;
+height: 17px;
+left: 1073px;
+top: 605px;
+display: flex;
+flex-wrap: wrap;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+}
+.text-white-paper2
+{
+  position: absolute;
+width: 268px;
+height: 44px;
+left: 95px;
+top: 179px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 44px;
+}
+.line-white-paper
+{
+  position: absolute;
+width: 96px;
+height: 0px;
+left: 1026px;
+top: 55px;
+
+}
+.fon-roadmap
+{
+  position: absolute;
+width: 1440px;
+height: 723px;
+left: 0px;
+top: -35px;
+}
+.flag-roadmap
+{
+  position: absolute;
+left: 14.2%;
+right: -71.88%;
+top: 45%;
+bottom: 0%;
+}
+.line-roadmap1
+{
+  position: absolute;
+width: 368.5px;
+height: 0px;
+left: 230px;
+top: 340px;
+}
+.line-roadmap2
+{
+  position: absolute;
+width: 202.5px;
+height: 0px;
+left: 603px;
+top: 340px;
+
+}
+.line-roadmap3
+{
+  position: absolute;
+width: 202.5px;
+height: 0px;
+left: 825px;
+top: 340px;
+}
+.line-roadmap4
+{
+  position: absolute;
+width: 202.5px;
+height: 0px;
+left: 1047px;
+top: 340px;
+}
+.ellipse7
+{
+  position: absolute;
+width: 19px;
+height: 19px;
+left: 358px;
+top: 340px;
+}
+.ellipse8
+{
+position: absolute;
+width: 19px;
+height: 19px;
+left: 586px;
+top: 340px;
+}
+.ellipse9
+{
+position: absolute;
+width: 19px;
+height: 19px;
+left: 808px;
+top: 340px;
+}
+.ellipse10
+{
+position: absolute;
+width: 19px;
+height: 19px;
+left: 1030px;
+top: 340px;  
+}
+.text-roadmap1
+{
+position: absolute;
+width: 154px;
+height: 171px;
+left: 752px;
+top: 400px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 15px;
+}
+.text-roadmap2
+{
+position: absolute;
+width: 154px;
+height: 74px;
+left: 543px;
+top: 400px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 15px;
+
+}
+.text-roadmap3
+{
+position: absolute;
+width: 110px;
+height: 32px;
+left: 316px;
+top: 400px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 15px;
+}
+.text-roadmap4
+{
+position: absolute;
+width: 167px;
+height: 74px;
+left: 963px;
+top: 400px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 20px;
+}
+.text-roadmap5
+{
+position: absolute;
+width: 54px;
+height: 20px;
+left: 196px;
+top: 300px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+}
+.text-roadmap6
+{
+position: absolute;
+width: 64px;
+height: 20px;
+left: 335px;
+top: 300px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+}
+.text-roadmap7
+{
+position: absolute;
+width: 64px;
+height: 20px;
+left: 562px;
+top: 300px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+}
+.text-roadmap8
+{
+position: absolute;
+width: 65px;
+height: 20px;
+left: 783px;
+top: 300px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+}
+.text-roadmap9
+{
+position: absolute;
+width: 40px;
+height: 20px;
+left: 1018px;
+top: 300px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+}
+.text-roadmap10
+{
+position: absolute;
+width: 88px;
+height: 20px;
+left: 1206px;
+top: 300px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+}
+.text-roadmap11
+{
+  position: absolute;
+width: 490px;
+height: 46px;
+left: 816px;
+top: 197px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+}
+.text-roadmap12
+{
+  position: absolute;
+width: 203px;
+height: 44px;
+left: 98px;
+top: 179px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 44px;
+}
+.line-roadmap
+{
+  position: absolute;
+width: 75.5px;
+height: 0px;
+left: 918px;
+top: 55px;
+}
+.girl-gta5
+{
+  position: absolute;
+width: 489px;
+height: 698px;
+left: 241px;
+top: 94px;
+}
+.line-to-block-staking1
+{
+  position: absolute;
+width: 564px;
+height: 0px;
+left: 798px;
+top: 375.5px;
+}
+.line-to-block-staking2
+{
+  position: absolute;
+width: 219.5px;
+height: 0px;
+left: 1080px;
+top: 270.5px;
+}
+.line-to-block-staking3
+{
+  position: absolute;
+width: 564px;
+height: 220px;
+left: 798px;
+top: 271px;
+}
+.text-in-block1
+{
+  position: absolute;
+width: 188px;
+height: 20px;
+left: 849px;
+top: 305px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+}
+.text-in-block2
+{
+position: absolute;
+width: 67px;
+height: 17px;
+left: 851px;
+top: 334px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+}
+.text-in-block3
+{
+position: absolute;
+width: 98px;
+height: 20px;
+left: 849px;
+top: 413px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+}
+.text-in-block4
+{
+position: absolute;
+width: 57px;
+height: 17px;
+left: 851px;
+top: 442px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+}
+.text-in-block5
+{
+position: absolute;
+width: 196px;
+height: 20px;
+left: 1137px;
+top: 305px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+}
+.text-in-block6
+{
+position: absolute;
+width: 62px;
+height: 17px;
+left: 1137px;
+top: 332px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+}
+.text-in-block7
+{
+position: absolute;
+width: 36px;
+height: 20px;
+left: 1132px;
+top: 413px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+}
+.text-in-block8
+{
+position: absolute;
+width: 30px;
+height: 17px;
+left: 1134px;
+top: 442px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+color: #3CBC1C;
+}
+.dollar-in-box1
+{
+position: absolute;
+width: 10px;
+height: 17px;
+left: 829px;
+top: 305px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+color: #E8327C;
+}
+.dollar-in-box2
+{
+  position: absolute;
+width: 10px;
+height: 17px;
+left: 829px;
+top: 413px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+color: #E8327C;
+}
+.procent-in-box
+{
+  position: absolute;
+width: 13px;
+height: 18px;
+left: 1112px;
+top: 413px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+
+color: #E8327C;
+}
+.table-in-box
+{
+  position: absolute;
+left: 73%;
+right: 0%;
+top: 41.8%;
+}
+.something-box
+{
+  position: absolute;
+width: 372px;
+height: 68px;
+left: 1019px;
+top: 620px;
+
+background: rgba(3, 6, 36, 0.5);
+}
+.galochka
+{
+  position: absolute;
+left: 68.5%;
+right: 0%;
+top: 88%;
+}
+.text-something
+{
+  position: absolute;
+width: 91px;
+height: 17px;
+left: 1064px;
+top: 645px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+}
+.krestik-something
+{
+  position: absolute;
+width: 8px;
+height: 8px;
+left: 1359px;
+top: 639px;
+}
+.text-additional-info
+{
+  position: absolute;
+width: 346px;
+height: 44px;
+left: 907px;
+top: 179px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 44px;
+}
+.text-your-actives
+{
+position: absolute;
+width: 280px;
+height: 44px;
+left: 98px;
+top: 179px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 44px;
+}
+.text-home-staking 
+{
+  position: absolute;
+width: 46px;
+height: 17px;
+left: 107.5px;
+top: 150px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+display: flex;
+flex-wrap: wrap;
+}
+.box-collect-reward
+{
+position: absolute;
+width: 166px;
+height: 52px;
+left: 798px;
+top: 551px;
+
+}
+.box-stake-more
+{
+position: absolute;
+width: 166px;
+height: 52px;
+left: 997px;
+top: 551px;
+}
+.box-unstake
+{
+position: absolute;
+width: 166px;
+height: 52px;
+left: 1196px;
+top: 551px;
+}
+.text-collect-reward
+{
+position: absolute;
+width: 139px;
+height: 17px;
+left: 812px;
+top: 569px;
+display: flex;
+flex-wrap: wrap;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+}
+.text-stake-more
+{
+position: absolute;
+width: 97px;
+height: 17px;
+left: 1032px;
+top: 569px;
+display: flex;
+flex-wrap: wrap;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+}
+.text-unstake
+{
+ position: absolute;
+width: 70px;
+height: 17px;
+left: 1244px;
+top: 569px;
+display: flex;
+flex-wrap: wrap;
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px; 
+}
+.line-pod-staking
+{
+  position: absolute;
+width: 67.5px;
+height: 0px;
+left: 749px;
+top: 56px;
+}
+.text-staking-select-setting
+{
+  position: absolute;
+width: 167px;
+height: 44px;
+left: 98px;
+top: 179px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 44px;
+}
+.text-type-amoung-to-stake
+{
+position: absolute;
+width: 211px;
+height: 20px;
+left: 98px;
+top: 263px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+}
+.text-avaible-amount
+{
+  position: absolute;
+width: 174px;
+height: 12px;
+left: 356px;
+top: 269px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 10px;
+line-height: 12px;
+}
+.text-kol-vo-money
+{
+  position: absolute;
+width: 54px;
+height: 17px;
+left: 116px;
+top: 302px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+}
+.text-MAX
+{
+  position: absolute;
+width: 29px;
+height: 15px;
+left: 480px;
+top: 303px;
+display: flex;
+flex-wrap: wrap;
+color: #E8327C;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 12px;
+line-height: 15px;
+
+}
+.obvodka-staking
+{
+  position: absolute;
+width: 432px;
+height: 43px;
+left: 98px;
+top: 289px;
+}
+.line-in-obovodka-staking
+{
+  position: absolute;
+width: 0px;
+height: 16.5px;
+left: 460px;
+top: 298px;
+}
+.text-dollar-in-obvodka-staking
+{
+  position: absolute;
+width: 8px;
+height: 15px;
+left: 432px;
+top: 302px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 12px;
+line-height: 15px;
+}
+.text-total-staked
+{
+position: absolute;
+width: 127px;
+height: 20px;
+left: 98px;
+top: 368px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+}
+.text-wmatic
+{
+position: absolute;
+width: 121px;
+height: 15px;
+left: 101px;
+top: 403px;
+color: #E8327C;
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 12px;
+line-height: 15px;
+}
+.text-stake-limits
+{
+position: absolute;
+width: 115px;
+height: 20px;
+left: 98px;
+top: 453px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+}
+.text-minimum
+{
+position: absolute;
+width: 72px;
+height: 15px;
+left: 101px;
+top: 485px;
+color: #D9351F;
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 12px;
+line-height: 15px;
+}
+.text-maximum
+{
+  position: absolute;
+width: 59px;
+height: 15px;
+left: 241px;
+top: 485px;
+color: #3CBC1C;
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 12px;
+line-height: 15px;
+}
+.text-select-setting
+{
+  position: absolute;
+width: 313px;
+height: 44px;
+left: 927px;
+top: 179px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 44px;
+}
+.line-staking1
+{
+position: absolute;
+width: 301.5px;
+height: 0px;
+left: 933px;
+top: 268px;
+}
+.line-staking2
+{
+position: absolute;
+width: 301.5px;
+height: 0px;
+left: 933px;
+top: 363px;
+}
+.line-staking3
+{
+  position: absolute;
+width: 301.5px;
+height: 0px;
+left: 933px;
+top: 458px;
+}
+.text-lock-period
+{
+  position: absolute;
+width: 118px;
+height: 20px;
+left: 952px;
+top: 293px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+}
+.text-1-month
+{
+position: absolute;
+width: 59px;
+height: 17px;
+left: 974px;
+top: 322px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+}
+.text-3-month
+{
+position: absolute;
+width: 62px;
+height: 17px;
+left: 1076px;
+top: 322px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+}
+.text-5-month
+{
+position: absolute;
+width: 62px;
+height: 17px;
+left: 1181px;
+top: 322px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+}
+.text-APR
+{
+position: absolute;
+width: 36px;
+height: 20px;
+left: 952px;
+top: 385px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+}
+.text-524
+{
+ position: absolute;
+width: 35px;
+height: 20px;
+left: 954px;
+top: 415px;
+color: #3CBC1C;
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px; 
+}
+.procent-staking
+{
+position: absolute;
+width: 13px;
+height: 18px;
+left: 932px;
+top: 385px;
+color: #E8327C;
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+}
+.table-staking
+{
+position: absolute;
+left: 61%;
+right: 0%;
+top: 40%;
+bottom: 0%;
+}
+.galochka-v-kybe
+{
+position: absolute;
+width: 4px;
+height: 3px;
+left: 956px;
+top: 320px;
+}
+.kyb
+{
+ position: absolute;
+width: 8px;
+height: 8px;
+left: 954px;
+top: 320px; 
+}
+.kyb2
+{
+position: absolute;
+width: 8px;
+height: 8px;
+left: 1056px;
+top: 320px;
+}
+.kyb3
+{
+ position: absolute;
+width: 8px;
+height: 8px;
+left: 1161px;
+top: 320px; 
+}
+.box-stake 
+{
+  position: absolute;
+width: 166px;
+height: 52px;
+left: 997px;
+top: 503px;
+}
+.text-stake1
+{
+  position: absolute;
+width: 48px;
+height: 17px;
+left: 1066px;
+top: 525px;
+display: flex;
+flex-wrap: wrap;
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+}
+.text-type-floating-rate
+{
+  position: absolute;
+width: 112px;
+height: 12px;
+left: 382px;
+top: 217px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 10px;
+line-height: 12px;
+}
+.text-E8-currency1
+{
+  position: absolute;
+width: 150px;
+height: 24px;
+left: 380px;
+top: 189px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 24px;
+}
+.gamepad-e8-1
+{
+  position: absolute;
+width: 51px;
+height: 36px;
+left: 316px;
+top: 187px;
+}
+.line-staking4
+{
+  position: absolute;
+width: 301.5px;
+height: 0px;
+left: 933px;
+top: 249px;
+}
+.line-staking5
+{
+position: absolute;
+width: 301.5px;
+height: 0px;
+left: 933px;
+top: 344px;
+}
+.line-staking6
+{
+  position: absolute;
+width: 301.5px;
+height: 0px;
+left: 933px;
+top: 439px;
+}
+.line-staking7
+{
+  position: absolute;
+width: 301.5px;
+height: 0px;
+left: 933px;
+top: 534px;
+}
+.box-start-staking
+{
+  position: absolute;
+width: 190px;
+height: 62px;
+left: 990px;
+top: 574px;
+}
+.text-start-staking
+{
+  position: absolute;
+width: 116px;
+height: 17px;
+left: 1027px;
+top: 597px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+display: flex;
+flex-wrap: wrap;
+}
+.text-procent-APR
+{
+position: absolute;
+width: 59px;
+height: 20px;
+left: 933px;
+top: 274px;
+color: #E8327C;
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+}
+.text-524-1
+{
+position: absolute;
+width: 35px;
+height: 20px;
+left: 955px;
+top: 303px;
+color: #3CBC1C;
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+}
+.text-term-days
+{
+position: absolute;
+width: 110px;
+height: 20px;
+left: 956px;
+top: 366px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+}
+.text-flexible-blocking
+{
+position: absolute;
+width: 126px;
+height: 17px;
+left: 955px;
+top: 395px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+}
+.text-max-amount
+{
+position: absolute;
+width: 120px;
+height: 20px;
+left: 955px;
+top: 464px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+}
+.text-2000-dollars
+{
+  position: absolute;
+width: 50px;
+height: 17px;
+left: 956px;
+top: 493px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+}
+.text-e8-currency2
+{
+  position: absolute;
+width: 150px;
+height: 24px;
+left: 1005px;
+top: 195px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 24px;
+}
+.gamepad-e8-2
+{
+  position: absolute;
+width: 51px;
+height: 36px;
+left: 933px;
+top: 188px;
+}
+.text-dollar3
+{
+  position: absolute;
+width: 11px;
+height: 20px;
+left: 933px;
+top: 464px;
+color: #E8327C;
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+}
+.table-term-days
+{
+  position: absolute;
+left: 61.5%;
+right: 0%;
+top: 50%;
+bottom: 0%;
+}
+.per-s-radio1
+{
+  position: absolute;
+width: 699px;
+height: 900px;
+left: 762px;
+top: 114px;
+}
+.text-you-have-no-coins-in-stake
+{
+  position: absolute;
+width: 203px;
+height: 58px;
+left: 98px;
+top: 283px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 29px;
+}
+.text-currently-energy8
+{
+  position: absolute;
+width: 309px;
+height: 42px;
+left: 98px;
+top: 386px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+}
+.box-start-staking2
+{
+  position: absolute;
+width: 190px;
+height: 62px;
+left: 99px;
+top: 488px;
+}
+.text-start-staking2
+{
+  position: absolute;
+width: 116px;
+height: 17px;
+left: 136px;
+top: 511px;
+display: flex;
+flex-wrap: wrap;
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+}
+.per-s-radio2
+{
+   position: absolute;
+width: 489px;
+height: 698px;
+left: 241px;
+top: 113px;
+}
+.edit-detail
+{
+  position: absolute;
+width: 88px;
+height: 17px;
+left: 110.5px;
+top: 150px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+display: flex;
+flex-wrap: wrap;
+}
+.jitel1
+{
+  position: absolute;
+width: 1474px;
+height: 829px;
+left: 0px;
+top: 47px;
+}
+.jitel2
+{
+  position: absolute;
+width: 1474px;
+height: 829px;
+left: 183px;
+top: 120px;
+}
+.line-pod-bridge
+{
+position: absolute;
+width: 60px;
+height: 0px;
+left: 220px;
+top: 60px;
+}
+.box-your-server-name
+{
+  position: absolute;
+width: 432px;
+height: 43px;
+left: 883px;
+top: 310px;
+}
+.text-your-server-nickname
+{
+position: absolute;
+width: 218px;
+height: 20px;
+left: 883px;
+top: 281px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+}
+.text-minecraft-ocean-of-anarchy
+{
+position: absolute;
+width: 293px;
+height: 20px;
+left: 883px;
+top: 379px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+}
+.box-minecraft-ocean-of-anarchy
+{
+  position: absolute;
+width: 432px;
+height: 43px;
+left: 883px;
+top: 402px;
+}
+.text-avaible
+{
+  position: absolute;
+width: 106px;
+height: 12px;
+left: 1209px;
+top: 383px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 10px;
+line-height: 12px;
+}
+.text-e8-amount
+{
+  position: absolute;
+width: 103px;
+height: 20px;
+left: 883px;
+top: 471px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+}
+.box-e8-amount
+{
+  position: absolute;
+width: 432px;
+height: 43px;
+left: 883px;
+top: 492px;
+}
+.text-nickname
+{
+position: absolute;
+width: 71px;
+height: 17px;
+left: 901px;
+top: 324px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+}
+.text-kolovo-avaible
+{
+position: absolute;
+width: 53px;
+height: 17px;
+left: 901px;
+top: 416px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+}
+.text-kolovo-e8-amount
+{
+ position: absolute;
+width: 33px;
+height: 17px;
+left: 901px;
+top: 506px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px; 
+}
+.box-withdraw1
+{
+  position: absolute;
+width: 132px;
+height: 47px;
+left: 1134px;
+top: 199px;
+}
+.text-deposit
+{
+  position: absolute;
+width: 66px;
+height: 17px;
+left: 963px;
+top: 214px;
+display: flex;
+flex-wrap: wrap;
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+}
+.line-deposit-and-withdraw
+{
+  position: absolute;
+width: 0px;
+height: 16.5px;
+left: 1097.5px;
+top: 214px;
+border: 1px solid #FFFFFF;
+}
+.text-withdraw1
+{
+  position: absolute;
+width: 89px;
+height: 17px;
+left: 1156px;
+top: 214px;
+display: flex;
+flex-wrap: wrap;
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+}
+.box-withdraw2
+{
+position: absolute;
+width: 190px;
+height: 62px;
+left: 1011px;
+top: 584px;
+}
+.text-withdraw2
+{
+position: absolute;
+width: 66px;
+height: 17px;
+left: 1060px;
+top: 605px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+display: flex;
+flex-wrap: wrap;
+}
+.text-start-bridge
+{
+  position: absolute;
+width: 105px;
+height: 17px;
+left: 110.5px;
+top: 150px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+display: flex;
+flex-wrap: wrap;
+}
+.dollar-deposit
+{
+  position: absolute;
+width: 9px;
+height: 17px;
+left: 1286px;
+top: 415px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+}
+.box-deposit
+{
+  position: absolute;
+width: 132px;
+height: 47px;
+left: 929px;
+top: 199px;
+}
+.text-transaction1
+{
+  position: absolute;
+width: 418px;
+height: 44px;
+left: 870px;
+top: 179px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 44px;
+}
+.block-transaction1
+{
+position: absolute;
+width: 219.5px;
+height: 0px;
+left: 1079px;
+top: 287px;
+}
+.block-transaction2
+{
+position: absolute;
+width: 564px;
+height: 0px;
+left: 796px;
+top: 390px;
+}
+.block-transaction3
+{
+ position: absolute;
+width: 564px;
+height: 220px;
+left: 797px;
+top: 287px; 
+}
+.chelovek-to-account
+{
+  position: absolute;
+width: 9.42px;
+height: 11.29px;
+left: 1115px;
+top: 323px;
+}
+.text-to-account
+{
+  position: absolute;
+width: 112px;
+height: 20px;
+left: 1136px;
+top: 323px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+}
+.text-pod-to-account
+{
+ position: absolute;
+width: 74px;
+height: 17px;
+left: 1136px;
+top: 350px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+}
+.gps-image
+{
+position: absolute;
+left: 54.5%;
+right: 41.85%;
+top: 323px;
+bottom: 52.92%;
+}
+.text-from-adress
+{
+position: absolute;
+width: 124px;
+height: 20px;
+left: 848px;
+top: 323px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+}
+.text-adress
+{
+position: absolute;
+width: 111px;
+height: 17px;
+left: 850px;
+top: 350px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+}
+.text-e8-amount2
+{
+  position: absolute;
+width: 103px;
+height: 20px;
+left: 848px;
+top: 431px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+}
+.text-dollar3
+{
+  position: absolute;
+width: 10px;
+height: 17px;
+left: 828px;
+top: 431px;
+color: #E8327C;
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+}
+.text-pod-e8-amount
+{
+  position: absolute;
+width: 103px;
+height: 17px;
+left: 850px;
+top: 460px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+}
+.text-dollar4
+{
+  position: absolute;
+width: 10px;
+height: 17px;
+left: 1115px;
+top: 431px;
+color: #E8327C;
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+}
+.text-e8-will-be-received
+{
+  position: absolute;
+width: 187px;
+height: 20px;
+left: 1135px;
+top: 431px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+}
+.text-pod-e8-will-be-received
+{
+  position: absolute;
+width: 71px;
+height: 17px;
+left: 1136px;
+top: 460px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+}
+.box-confirm3
+{
+position: absolute;
+width: 190px;
+height: 62px;
+left: 984px;
+top: 582px;
+}
+.text-confirm
+{
+  position: absolute;
+width: 71px;
+height: 17px;
+left: 1044px;
+top: 605px;
+display: flex;
+flex-wrap: wrap;
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+}
+.text-the-page-youre
+{
+  position: absolute;
+width: 271px;
+height: 40px;
+left: 1006px;
+top: 391px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+}
+.text-error-404
+{
+  position: absolute;
+width: 255px;
+height: 51px;
+left: 1014px;
+top: 258px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 42px;
+line-height: 51px;
+}
+.mnogo-minecraft
+{
+  position: absolute;
+width: 1086px;
+height: 611px;
+left: -80px;
+top: 109px;
+}
+.text-back-home
+{
+  position: absolute;
+width: 92px;
+height: 17px;
+left: 1095px;
+top: 536px;
+display: flex;
+flex-wrap: wrap;
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+}
+.box-back-home
+{
+  position: absolute;
+width: 190px;
+height: 62px;
+left: 1046px;
+top: 513px;
+display: flex;
+flex-wrap: wrap;
 }
